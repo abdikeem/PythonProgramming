@@ -1,0 +1,1 @@
+print("Welcome to treasure Island. \n Your mission is to find the treasure")
