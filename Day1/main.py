@@ -8,5 +8,3 @@ city_you_grewup = input("Where did you grow up? \n")
 pet_name = input("What is the name of your pet? \n")
 #4. Combine the name of their city and pet and show them their band name.
 print("You grew-up at " + city_you_grewup + " and your pet's name is " + pet_name)
-
-#5. Make sure the input cursor shows on a new line, see the example at:
