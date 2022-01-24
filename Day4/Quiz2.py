@@ -10,4 +10,4 @@ random_names = random.randint(0, num_items - 1)
 
 person_to_pay = names[random_names]
 
-print("\U0001F923 " +person_to_pay + " is going to pay the bill")
+print("\U0001F923 " + person_to_pay + " is going to pay the bill")
