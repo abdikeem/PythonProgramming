@@ -5,3 +5,5 @@ print("State_Of_USA: ",states_of_america[0:5])
 dirty_dozen = ["Strawberries", "Spinach", "Kale", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears", "Tomatoes", "Celery", "Potatoes"]
 
 print("Fruits: ",dirty_dozen[0:5])
+
+
